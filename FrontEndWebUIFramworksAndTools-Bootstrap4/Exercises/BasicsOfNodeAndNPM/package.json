@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mizakiharuno/Portfolio/issues"
   },
-  "homepage": "https://github.com/mizakiharuno/Portfolio#readme"
+  "homepage": "https://github.com/mizakiharuno/Portfolio#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
 }
