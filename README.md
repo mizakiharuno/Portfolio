@@ -10,3 +10,4 @@ This [course](https://www.coursera.org/learn/bootstrap-4/home/) is located on [c
 ### Exercises
 1. [Basics of Node and NPM](https://github.com/mizakiharuno/Portfolio/tree/main/FrontEndWebUIFramworksAndTools-Bootstrap4/Exercises/BasicsOfNodeAndNPM)
 2. [Getting Started with Bootstrap](https://github.com/mizakiharuno/Portfolio/tree/main/FrontEndWebUIFramworksAndTools-Bootstrap4/Exercises/GettingStartedwithBootstrap)
+3. [Responsive Design and Bootstrap Grid System](https://github.com/mizakiharuno/Portfolio/tree/main/FrontEndWebUIFramworksAndTools-Bootstrap4/Exercises/ResponsiveDesignAndBootstrapGridSystem)
