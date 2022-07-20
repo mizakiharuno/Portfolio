@@ -2,8 +2,8 @@
 This is my professional portfolio of projects/assignments I have completed. Note that all exercises are instructor led and assignments/projects are independent, unless specified otherwise by a footnote.
 
 ### Table of Contents
-1. [Front-End Web UI Frameworks and Tools: Bootstrap 4](#Front-End Web UI Frameworks and Tools: Bootstrap 4)
-2. [Google Data Analytics Professional Certificate](#Google Data Analytics Professional Certificate)
+1. [Front-End Web UI Frameworks and Tools: Bootstrap 4](#front-end-web-ui-frameworks-and-tools-bootstrap-4)
+2. [Google Data Analytics Professional Certificate](#google-data-analytics-professional-certificate)
 
 ## Front-End Web UI Frameworks and Tools: Bootstrap 4
 This [course](https://www.coursera.org/learn/bootstrap-4/home/) is located on [coursera](https://www.coursera.org/), and I used it to learn about the Framework Bootstrap.  Though it says Bootstrap 4, I used the most recent version of Bootstrap at the time (5.2.0-beta1).
