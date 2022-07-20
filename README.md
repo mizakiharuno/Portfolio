@@ -4,6 +4,7 @@ This is my professional portfolio of projects/assignments I have completed. Note
 ### Table of Contents
 1. [Front-End Web UI Frameworks and Tools: Bootstrap 4](#front-end-web-ui-frameworks-and-tools-bootstrap-4)
 2. [Google Data Analytics Professional Certificate](#google-data-analytics-professional-certificate)
+3. [Programming Mobile Applications for Android Handheld Systems](#programming-mobile-applications-for-android-handheld-systems)
 
 ## Front-End Web UI Frameworks and Tools: Bootstrap 4
 This [course](https://www.coursera.org/learn/bootstrap-4/home/) is located on [coursera](https://www.coursera.org/), and I used it to learn about the Framework Bootstrap.  Though it says Bootstrap 4, I used the most recent version of Bootstrap at the time (5.2.0-beta1).
@@ -19,3 +20,10 @@ This [course](https://www.coursera.org/professional-certificates/google-data-ana
 
 ### Foundations: Data, Data, Everywhere
 1. [Learning Logs](https://github.com/mizakiharuno/Portfolio/tree/main/GoogleDataAnalyticsProfessionalCertificate/FoundationsDataDataEverywhere/LearningLogs)
+
+
+## Programming Mobile Applications for Android Handheld Systems
+This [course](https://www.coursera.org/learn/android-programming/home/) is located on [coursera](https://www.coursera.org/), and I used it to learn the basics of Android Application Development. There were many differences between the course and my development process as I was using a more up-to-date version of Android Studio.
+
+### Video Exercises
+1. [Hello Android](https://github.com/mizakiharuno/Portfolio/tree/main/TheAndroidDevelopmentEnvironment/VideoExercises/HelloAndroid)
