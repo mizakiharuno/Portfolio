@@ -9,6 +9,9 @@ This is my professional portfolio of projects/assignments I have completed. Note
 ## Front-End Web UI Frameworks and Tools: Bootstrap 4
 This [course](https://www.coursera.org/learn/bootstrap-4/home/) is located on [coursera](https://www.coursera.org/), and I used it to learn about the Framework Bootstrap.  Though it says Bootstrap 4, I used the most recent version of Bootstrap at the time (5.2.0-beta1).
 
+### Honors Project
+You can find my Ideation Report [here](https://github.com/mizakiharuno/Portfolio/blob/main/FrontEndWebUIFramworksAndTools-Bootstrap4/HonorsProject/IdeationReport.md), which outlines my goals and aspirations for the project. It also outlines some preliminary market research and features list. You can find the entire project [here](https://github.com/mizakiharuno/Portfolio/tree/main/FrontEndWebUIFramworksAndTools-Bootstrap4/HonorsProject)
+
 ### Assignments
 1. [Bootstrap and Responsive Design](https://github.com/mizakiharuno/Portfolio/tree/main/FrontEndWebUIFramworksAndTools-Bootstrap4/Assignments/Assignment1-BootstrapandResponsiveDesign)
 
