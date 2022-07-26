@@ -17,13 +17,18 @@
 <body>
     <nav class="navbar navbar-dark navbar-expand-sm bg-primary fixed-top">
         <div class="container">
-            <a class="navbar-brand" href="#">Ristorante Con Fusion</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#Navbar">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <a class="navbar-brand mr-auto" href="#">Ristorante Con Fusion</a>
+            <div class="collapse navbar-collapse" id="Navbar">
                 <ul class="navbar-nav mr-auto">
                     <li class="nav-item"><a class="nav-link active" href="#">Home</a></li>
                     <li class="nav-item"><a class="nav-link" href="./aboutus.html">About</a></li>
                     <li class="nav-item"><a class="nav-link" href="#">Menu</a></li>
                     <li class="nav-item"><a class="nav-link" href="#">Contact</a></li>
                 </ul>
+            </div>
         </div>
     </nav>
     <header class="p-5 jumbotron"> <!-- Used utility classes in place of Bootstrap4's Jumbotron -->
@@ -80,7 +85,7 @@
                     <h5>Links</h5>
                     <ul class="list-unstyled">
                         <li><a href="#">Home</a></li>
-                        <li><a href="#">About</a></li>
+                        <li><a href="./aboutus.html">About</a></li>
                         <li><a href="#">Menu</a></li>
                         <li><a href="#">Contact</a></li>
                     </ul>
@@ -116,8 +121,8 @@
     </footer>
 
     <!-- JQuery first, then Bootstrap JS. -->
-    <script src="node_modules/jquery/dist/jquery.min.js">
-    <script src="node_modules/bootstrap/dist/js/bootstrap.min.js">
+    <script src="node_modules/jquery/dist/jquery.min.js"></script>
+    <script src="node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
 </body>
 
 </html>
