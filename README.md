@@ -19,6 +19,8 @@ You can find my Ideation Report [here](https://github.com/mizakiharuno/Portfolio
 1. [Basics of Node and NPM](https://github.com/mizakiharuno/Portfolio/tree/main/FrontEndWebUIFramworksAndTools-Bootstrap4/Exercises/BasicsOfNodeAndNPM)
 2. [Getting Started with Bootstrap](https://github.com/mizakiharuno/Portfolio/tree/main/FrontEndWebUIFramworksAndTools-Bootstrap4/Exercises/GettingStartedwithBootstrap)
 3. [Responsive Design and Bootstrap Grid System](https://github.com/mizakiharuno/Portfolio/tree/main/FrontEndWebUIFramworksAndTools-Bootstrap4/Exercises/ResponsiveDesignAndBootstrapGridSystem)
+4. [Navbar and Breadcrumbs](https://github.com/mizakiharuno/Portfolio/tree/main/FrontEndWebUIFramworksAndTools-Bootstrap4/Exercises/NavbarAndBreadcrumbs)
+5. [Icon Fonts](https://github.com/mizakiharuno/Portfolio/tree/main/FrontEndWebUIFramworksAndTools-Bootstrap4/Exercises/IconFonts)
 
 
 ## Google Data Analytics Professional Certificate
