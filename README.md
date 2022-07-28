@@ -23,6 +23,7 @@ You can find my Ideation Report [here](https://github.com/mizakiharuno/Portfolio
 5. [Icon Fonts](https://github.com/mizakiharuno/Portfolio/tree/main/FrontEndWebUIFramworksAndTools-Bootstrap4/Exercises/IconFonts)
 6. [Buttons and Forms](https://github.com/mizakiharuno/Portfolio/tree/main/FrontEndWebUIFramworksAndTools-Bootstrap4/Exercises/ButtonAndForms)
 7. [Tables and Cards](https://github.com/mizakiharuno/Portfolio/tree/main/FrontEndWebUIFramworksAndTools-Bootstrap4/Exercises/TablesAndCards)
+8. [ImagesAndMedia](https://github.com/mizakiharuno/Portfolio/tree/main/FrontEndWebUIFramworksAndTools-Bootstrap4/Exercises/ImagesAndMedia)
 
 
 ## Google Data Analytics Professional Certificate
